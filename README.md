@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ayman2820
-- 👀 I’m interested in subtitle writing and blender model making
-- 🌱 I’m currently learning blender and coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding and mainly in game devlopment 
+- 🌱 I’m currently learning blender,coding and unreal engine 5
 
 <!---
 Ayman2820/Ayman2820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
